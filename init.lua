@@ -1,3 +1,4 @@
+-- This checks if there are any changes in my neovim dotfiles github repo. Remove if you wish to not do that.
 require("git_update")
 
 -- Set <space> as the leader key
