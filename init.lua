@@ -939,5 +939,5 @@ require('lazy').setup({
 
 -- Disable vimtex syntax highlighting because im using treesitter for that :3
 vim.g.vimtex_syntax_enabled = 0
-vim.opt.title = true
+vim.opt.title = false
 vim.opt.titlestring = 'NeoVIM: Editing %f in mode %{v:lua.vim.fn.mode()}'
