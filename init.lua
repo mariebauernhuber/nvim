@@ -886,3 +886,17 @@ require("lazy").setup({
 vim.g.vimtex_syntax_enabled = 0
 vim.opt.title = true
 vim.opt.titlestring = "NeoVIM: Editing %f in mode %{v:lua.vim.fn.mode()}"
+
+vim.opt.conceallevel = 2
+vim.opt.concealcursor = "nc"
+
+vim.g.vimtex_syntax_conceal = {
+	accents = 1,
+	ligatures = 1,
+	greek = 1,
+	math_bounds = 1,
+	math_delimiters = 1,
+	math_fracs = 1,
+	math_super_sub = 1,
+	math_symbols = 1,
+}
