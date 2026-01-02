@@ -974,7 +974,7 @@ ins_left({
 ins_left({
 	-- mode component
 	function()
-		return ""
+		return "󰣇 "
 	end,
 	color = function()
 		-- auto change color according to neovims mode
@@ -1134,7 +1134,7 @@ vim.g.vimtex_syntax_conceal = {
 	math_symbols = 1,
 }
 
-vim.cmd.colorscheme("xcodedark")
+vim.cmd.colorscheme("tokyonight-storm")
 
 vim.cmd("KeysToggle")
 vim.cmd("KeysToggle")
