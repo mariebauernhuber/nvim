@@ -1136,5 +1136,10 @@ vim.g.vimtex_syntax_conceal = {
 
 vim.cmd.colorscheme("tokyonight-storm")
 
+vim.keymap.set("n", "<leader>fv", ":VimtexView<CR>", {
+	desc = "Vimtex View (open PDF)",
+	silent = true, -- No command echo
+})
+
 vim.cmd("KeysToggle")
 vim.cmd("KeysToggle")
