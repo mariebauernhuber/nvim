@@ -744,7 +744,6 @@ require("lazy").setup({
 			-- Load the colorscheme here.
 			-- Like many other themes, this one has different styles, and you could load
 			-- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
-			vim.cmd.colorscheme("tokyonight-night")
 		end,
 	},
 
@@ -889,7 +888,7 @@ vim.opt.title = true
 vim.opt.titlestring = "NeoVIM: Editing %f in mode %{v:lua.vim.fn.mode()}"
 
 vim.opt.conceallevel = 2
-vim.opt.concealcursor = "nc"
+vim.opt.concealcursor = ""
 
 vim.g.vimtex_syntax_conceal = {
 	accents = 1,
@@ -901,3 +900,5 @@ vim.g.vimtex_syntax_conceal = {
 	math_super_sub = 1,
 	math_symbols = 1,
 }
+
+vim.cmd.colorscheme("xcodedark")

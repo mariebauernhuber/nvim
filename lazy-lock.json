@@ -29,6 +29,7 @@
   "tokyonight.nvim": { "branch": "main", "commit": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd" },
   "transparent.nvim": { "branch": "main", "commit": "a4145c52f5421f1626a4d7dc0f41e785c4439944" },
   "usage.nvim": { "branch": "main", "commit": "64cb97b23253f43eaedfcde1c76e1864a11d1c52" },
+  "vim-colors-xcode": { "branch": "master", "commit": "2329a3ed092b4f72e9361a94567a5431e36e7d9c" },
   "vimtex": { "branch": "master", "commit": "f5c37462c690da9a0d05cd12a7b9595b10b56200" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" }
 }
