@@ -11,6 +11,7 @@
   "keys.nvim": { "branch": "main", "commit": "572490e8efac66a6008e016dbe82ad49ebfb3250" },
   "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
   "lazydev.nvim": { "branch": "main", "commit": "5231c62aa83c2f8dc8e7ba957aa77098cda1257d" },
+  "lualine.nvim": { "branch": "master", "commit": "47f91c416daef12db467145e16bed5bbfe00add8" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "4cfe411526a7a99c18281135e8b4765ae6330d15" },
   "mason-tool-installer.nvim": { "branch": "main", "commit": "517ef5994ef9d6b738322664d5fdd948f0fdeb46" },
   "mason.nvim": { "branch": "main", "commit": "57e5a8addb8c71fb063ee4acda466c7cf6ad2800" },
@@ -27,9 +28,8 @@
   "telescope.nvim": { "branch": "master", "commit": "3333a52ff548ba0a68af6d8da1e54f9cd96e9179" },
   "todo-comments.nvim": { "branch": "main", "commit": "31e3c38ce9b29781e4422fc0322eb0a21f4e8668" },
   "tokyonight.nvim": { "branch": "main", "commit": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd" },
-  "transparent.nvim": { "branch": "main", "commit": "a4145c52f5421f1626a4d7dc0f41e785c4439944" },
   "usage.nvim": { "branch": "main", "commit": "64cb97b23253f43eaedfcde1c76e1864a11d1c52" },
   "vim-colors-xcode": { "branch": "master", "commit": "2329a3ed092b4f72e9361a94567a5431e36e7d9c" },
-  "vimtex": { "branch": "master", "commit": "f5c37462c690da9a0d05cd12a7b9595b10b56200" },
+  "vimtex": { "branch": "master", "commit": "a50f40783c1cade2e8e2994a9f4a8e038a0a57bc" },
   "which-key.nvim": { "branch": "main", "commit": "3aab2147e74890957785941f0c1ad87d0a44c15a" }
 }
